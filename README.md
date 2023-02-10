@@ -2,6 +2,8 @@
 
 EXPLICACIÓN PARA EL CODIGO:
 
+VIDEO EN YOUTUBE CON LA EXPLICACIÓN DEL VIDEO: https://www.youtube.com/watch?v=pEMYh1IjK08&ab_channel=DanielCorrea
+
 • Empezamos creando la clase principal que NavesEspaciales, en esta clase tendremos 3 atributos, nombre, país y actividad. Los tres son datos tipo protected ya que esta
   clase tendrá hijos.
 • Creamos el constructor para cada uno de los atributos y le agregamos los métodos getters
